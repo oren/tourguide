@@ -1,4 +1,4 @@
-application: tourguide
+application: avi-golan
 version: 1
 runtime: python
 api_version: 1
